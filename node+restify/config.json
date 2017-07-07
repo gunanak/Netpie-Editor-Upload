@@ -1,0 +1,4 @@
+{
+	"dbPath": "mongodb://localhost/app2",
+	"port": 8000
+}
